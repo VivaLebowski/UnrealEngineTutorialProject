@@ -1,0 +1,30 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/UnrealProjects/BeginnerCourse/Content/BeginnerCourseLevel.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/Structs/MyStruct.uasset",
+				"C:/UnrealProjects/BeginnerCourse/Content/Maps/BeginnerCourseLevel.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/Enums/MyEnum.uasset",
+				"C:/UnrealProjects/BeginnerCourse/Content/CurrentMaps/BeginnerCourseLevel_BuiltData.uasset",
+				"C:/UnrealProjects/BeginnerCourse/Content/CurrentMaps/BeginnerCourseLevel.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/MovingALightBlueprint.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/EnumsAndSwitchStatements.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/BasicFunctions.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/MacrosForDelay.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/CurrentMaps/NewBlueprint.uasset",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/CollapsedGraphs.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/BasicIfStatement.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/BasicSwitchStatement.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/AdvancedSwitchStatement.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/WhileLoop.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/OldMaps/ForEachLoops.umap",
+				"C:/UnrealProjects/BeginnerCourse/Content/BeginnerCourseLevel_BuiltData.uasset",
+				"C:/UnrealProjects/BeginnerCourse/Content/Maps/BeginnerCourseLevel_BuiltData.uasset"
+			]
+		}
+	]
+}
